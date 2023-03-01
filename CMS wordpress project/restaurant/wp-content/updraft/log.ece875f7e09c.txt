@@ -1,0 +1,24 @@
+0000.000 () Opened log file at time: Sat, 27 Feb 2021 11:30:15 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress
+0000.016 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) MySQL: 10.1.9-MariaDB WPLANG: th Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.5M | 8M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.016 () Free space on disk containing Updraft's temporary directory: 8422.8 MB
+0000.000 () Opened log file at time: Sat, 27 Feb 2021 11:30:19 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress
+0000.000 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.47 WP: 5.6.2 PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) MySQL: 10.1.9-MariaDB WPLANG: th Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.6M | 6M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.000 () Free space on disk containing Updraft's temporary directory: 8422.8 MB
+0000.016 () Ensuring WP_Filesystem is setup for a restore
+0000.031 () WP_Filesystem is setup and ready for a restore
+0000.078 () Restore job started. Entities to restore: uploads. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.109 () Entity: uploads
+0000.109 () restore_backup(backup_file=backup_2021-02-26-2032_it2sutacth_cms63_g3_wordpress_f0162bbc6781-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:51:"E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=1)
+0000.109 () Unpacking backup... (backup_2021-02-26-2032_it2sutacth_cms63_g3_wordpress_f0162bbc6781-uploads.zip, 346.2 MB)
+0000.125 () Unzipping backup_2021-02-26-2032_it2sutacth_cms63_g3_wordpress_f0162bbc6781-uploads.zip to E:/phpwebsite/cms63_g3/wordpress/wp-content/upgrade/cd0af4f0/ using UpdraftPlus_ZipArchive, starting index 0
+0003.260 () Unzip progress: 416 out of 1223 files (100.2 MB, uploads/2021/02/IMG20210110125848-scaled.jpg)
+0005.444 () Unzip progress: 699 out of 1223 files (201.6 MB, uploads/2021/02/คาราโอเกะ-updraft-pre-smush-original.png)
+0007.753 () Unzip progress: 995 out of 1223 files (301.7 MB, uploads/2021/02/ต้มแซ่บหมู-scaled.jpeg)
+0009.329 () Unzip progress: 1223 out of 1223 files (346.1 MB, uploads/woocommerce_uploads/index.html)
+0009.422 () Moving old data: filesystem method / updraft_dir is potentially possible
+0009.422 () Moving old data: can potentially use wp_filesystem method / -old
+0009.422 () Moving old data out of the way...
+0009.547 () Moving unpacked backup into place...
+0009.656 () Cleaning up rubbish...
+0009.703 () Restore successful!
+0009.703 () Restore successful

@@ -1,0 +1,28 @@
+2021-02-09T15:57:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\facebook-for-woocommerce\includes\Integrations\Integrations.php on line 13
+
+2021-02-09T15:57:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-admin\includes\class-wp-screen.php on line 1358
+
+2021-02-09T18:10:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\ninja-forms\includes\Config\FieldSettings.php on line 1
+
+2021-02-09T18:10:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\jetpack\vendor\automattic\jetpack-sync\src\class-users.php on line 152
+
+2021-02-09T18:11:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Slider\ResponsiveType\Auto\ResponsiveTypeAutoFrontend.php on line 7
+
+2021-02-09T18:12:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\ninja-forms\includes\Actions\Custom.php on line 1
+
+2021-02-09T18:12:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\ninja-forms\includes\Fields\Textarea.php on line 1
+
+2021-02-09T18:12:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\ninja-forms\includes\Actions\Save.php on line 1
+
+2021-02-09T18:12:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\SharedType.php on line 9
+
+2021-02-09T18:13:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\jetpack\modules\shortcodes\others.php on line 12
+
+2021-02-09T18:13:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedCategory.php on line 7
+
+2021-02-09T18:13:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-settings-tracking.php on line 119
+
+2021-02-09T18:18:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\elementor\includes\controls\divider.php on line 4
+
+2021-02-09T18:19:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\phpwebsite\cms63_g3\wordpress\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Slider\Feature\Autoplay.php on line 88
+

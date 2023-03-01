@@ -1,0 +1,101 @@
+# Translation of Plugins - Seed Fonts - Stable (latest release) in Thai
+# This file is distributed under the same license as the Plugins - Seed Fonts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-03 16:17:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: th\n"
+"Project-Id-Version: Plugins - Seed Fonts - Stable (latest release)\n"
+
+#: seed-fonts.php:194
+msgid "Heading"
+msgstr "พาดหัว"
+
+#: seed-fonts.php:195
+msgid "Body"
+msgstr "ส่วนเนื้อหา"
+
+#. Plugin Name of the plugin
+#: seed-fonts.php:165 seed-fonts.php:179
+msgid "Seed Fonts"
+msgstr "Seed Fonts"
+
+#. Plugin URI of the plugin
+msgid "https://www.seedthemes.com/plugin/seed-fonts"
+msgstr "https://www.seedthemes.com/plugin/seed-fonts"
+
+#. Author of the plugin
+msgid "SeedThemes"
+msgstr "SeedThemes"
+
+#. Author URI of the plugin
+msgid "https://www.seedthemes.com"
+msgstr "https://www.seedthemes.com"
+
+#: seed-fonts.php:165
+msgid "Fonts"
+msgstr "ฟอนต์"
+
+#: seed-fonts.php:184
+msgid "Settings updated successfully."
+msgstr "ตั้งค่าเรียบร้อย"
+
+#: seed-fonts.php:452
+msgid "Fonts Settings - Heading"
+msgstr "ตั้งค่าฟอนต์ - ส่วนพาดหัว"
+
+#: seed-fonts.php:458 seed-fonts.php:464 seed-fonts.php:541 seed-fonts.php:547
+msgid "Yes"
+msgstr "ใช่"
+
+#: seed-fonts.php:487 seed-fonts.php:570
+msgid "Weight"
+msgstr "น้ำหนัก"
+
+#: seed-fonts.php:494 seed-fonts.php:602
+msgid "Selectors"
+msgstr "Selectors"
+
+#: seed-fonts.php:604
+msgid "Separate selectors with commas"
+msgstr "คั่นระหว่าง Selector ด้วยเครื่องหมาย \",\""
+
+#: seed-fonts.php:507 seed-fonts.php:609
+msgid "Force Using This Font?"
+msgstr "บังคับใช้ฟอนต์นี้?"
+
+#: seed-fonts.php:509 seed-fonts.php:611
+msgid "Yes (!important added)"
+msgstr "ใช่ (เพิ่มคำสั่ง !important)"
+
+#: seed-fonts.php:513 seed-fonts.php:615
+msgid "Generated CSS"
+msgstr "CSS ที่สร้างขึ้น"
+
+#: seed-fonts.php:535
+msgid "Fonts Settings - Body"
+msgstr "ตั้งค่าฟอนต์ - ส่วนเนื้อหา"
+
+#: seed-fonts.php:581
+msgid "Size"
+msgstr "ขนาดตัวอักษร"
+
+#: seed-fonts.php:587
+msgid "Size Unit"
+msgstr "หน่วย"
+
+#: seed-fonts.php:589
+msgid "px"
+msgstr "px"
+
+#: seed-fonts.php:589
+msgid "em"
+msgstr "em"
+
+#: seed-fonts.php:589
+msgid "%"
+msgstr "%"

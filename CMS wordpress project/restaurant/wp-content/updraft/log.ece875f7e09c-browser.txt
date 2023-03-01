@@ -1,0 +1,11 @@
+0000.078 (R) [notice] Looking for uploads archive: file name: backup_2021-02-26-2032_it2sutacth_cms63_g3_wordpress_f0162bbc6781-uploads.zip
+0000.078 (R) [notice] Archive is expected to be size: 354534.2 KB: OK
+0000.109 (R) [notice] Unpacking backup... (backup_2021-02-26-2032_it2sutacth_cms63_g3_wordpress_f0162bbc6781-uploads.zip, 346.2 MB)
+0003.260 (R) [notice] Unzip progress: 416 out of 1223 files (100.2 MB, uploads/2021/02/IMG20210110125848-scaled.jpg)
+0005.444 (R) [notice] Unzip progress: 699 out of 1223 files (201.6 MB, uploads/2021/02/คาราโอเกะ-updraft-pre-smush-original.png)
+0007.753 (R) [notice] Unzip progress: 995 out of 1223 files (301.7 MB, uploads/2021/02/ต้มแซ่บหมู-scaled.jpeg)
+0009.329 (R) [notice] Unzip progress: 1223 out of 1223 files (346.1 MB, uploads/woocommerce_uploads/index.html)
+0009.422 (R) [notice] Moving old data out of the way...
+0009.547 (R) [notice] Moving unpacked backup into place...
+0009.656 (R) [notice] Cleaning up rubbish...
+0009.703 (R) [notice] Restore successful!

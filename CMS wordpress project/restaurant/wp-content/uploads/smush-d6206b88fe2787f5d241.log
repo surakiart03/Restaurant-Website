@@ -1,0 +1,817 @@
+[2021-02-26 01:41:10 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:10 : INFO] - 95 
+[2021-02-26 01:41:14 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:14 : INFO] - 95 
+[2021-02-26 01:41:15 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:15 : INFO] - 95 
+[2021-02-26 01:41:19 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:19 : INFO] - 95 
+[2021-02-26 01:41:21 : INFO] - 
+ 
+[2021-02-26 01:41:21 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:41:21 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:41:21 : INFO] - WP: 5.6.2 
+[2021-02-26 01:41:21 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:41:21 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:41:21 : INFO] - WPLANG: th 
+[2021-02-26 01:41:21 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:41:21 : INFO] - Outbound connections: N 
+[2021-02-26 01:41:21 : INFO] - safe_mode: 0 
+[2021-02-26 01:41:21 : INFO] - max_execution_time: 120 
+[2021-02-26 01:41:21 : INFO] - memory_limit: 512M (used: 85.4M | 20M) 
+[2021-02-26 01:41:21 : INFO] - multisite: N 
+[2021-02-26 01:41:21 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:41:21 : INFO] - A total of 17 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:41:21 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:41:21 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:41:21 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:21 : INFO] - 95 
+[2021-02-26 01:41:23 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:23 : INFO] - 95 
+[2021-02-26 01:41:26 : INFO] - Re_Smush_It_Task - Attachment ID : 330, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:26 : INFO] - 95 
+[2021-02-26 01:41:27 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/45029.jpg.The file was compressed from 501.12 KB to 461.05 KB saving 8 percent using WP-Optimize 
+[2021-02-26 01:41:27 : INFO] - Completed processing task with ID : 243, and type 'smush' 
+[2021-02-26 01:41:27 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:41:27 
+[2021-02-26 01:41:27 : INFO] - Processing task with ID : 244, and type 'smush' 
+[2021-02-26 01:41:27 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:27 : INFO] - 95 
+[2021-02-26 01:41:36 : INFO] - Backing up the original image - 2021/02/IMG20210111164015-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:41:36 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:36 : INFO] - 95 
+[2021-02-26 01:41:38 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:38 : INFO] - 95 
+[2021-02-26 01:41:41 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:41 : INFO] - 95 
+[2021-02-26 01:41:42 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:42 : INFO] - 95 
+[2021-02-26 01:41:45 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:45 : INFO] - 95 
+[2021-02-26 01:41:49 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:41:49 : INFO] - 95 
+[2021-02-26 01:42:21 : INFO] - 
+ 
+[2021-02-26 01:42:21 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:42:21 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:42:21 : INFO] - WP: 5.6.2 
+[2021-02-26 01:42:21 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:42:21 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:42:21 : INFO] - WPLANG: th 
+[2021-02-26 01:42:21 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:42:21 : INFO] - Outbound connections: N 
+[2021-02-26 01:42:21 : INFO] - safe_mode: 0 
+[2021-02-26 01:42:21 : INFO] - max_execution_time: 120 
+[2021-02-26 01:42:21 : INFO] - memory_limit: 512M (used: 85.4M | 10M) 
+[2021-02-26 01:42:21 : INFO] - multisite: N 
+[2021-02-26 01:42:21 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:42:21 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:42:21 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:42:21 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:43:22 : INFO] - 
+ 
+[2021-02-26 01:43:22 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:43:22 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:43:22 : INFO] - WP: 5.6.2 
+[2021-02-26 01:43:22 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:43:22 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:43:22 : INFO] - WPLANG: th 
+[2021-02-26 01:43:22 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:43:22 : INFO] - Outbound connections: N 
+[2021-02-26 01:43:22 : INFO] - safe_mode: 0 
+[2021-02-26 01:43:22 : INFO] - max_execution_time: 120 
+[2021-02-26 01:43:22 : INFO] - memory_limit: 512M (used: 85.4M | 8M) 
+[2021-02-26 01:43:22 : INFO] - multisite: N 
+[2021-02-26 01:43:22 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:43:22 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:43:22 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:43:22 
+[2021-02-26 01:43:22 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:43:22 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:43:22 
+[2021-02-26 01:43:22 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:43:22 : INFO] - Processing task with ID : 244, and type 'smush' 
+[2021-02-26 01:43:22 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:22 : INFO] - 95 
+[2021-02-26 01:43:29 : INFO] - Backing up the original image - 2021/02/IMG20210111164015-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:43:29 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:29 : INFO] - 95 
+[2021-02-26 01:43:31 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:31 : INFO] - 95 
+[2021-02-26 01:43:34 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:34 : INFO] - 95 
+[2021-02-26 01:43:35 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:35 : INFO] - 95 
+[2021-02-26 01:43:38 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:38 : INFO] - 95 
+[2021-02-26 01:43:42 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:42 : INFO] - 95 
+[2021-02-26 01:43:47 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:47 : INFO] - 95 
+[2021-02-26 01:43:49 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:49 : INFO] - 95 
+[2021-02-26 01:43:51 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:51 : INFO] - 95 
+[2021-02-26 01:43:53 : INFO] - Re_Smush_It_Task - Attachment ID : 289, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:53 : INFO] - 95 
+[2021-02-26 01:43:55 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/IMG20210111164015-scaled.jpg.The file was compressed from 426.86 KB to 426.86 KB saving 0 percent using WP-Optimize 
+[2021-02-26 01:43:55 : INFO] - Completed processing task with ID : 244, and type 'smush' 
+[2021-02-26 01:43:55 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:43:55 
+[2021-02-26 01:43:55 : INFO] - Processing task with ID : 245, and type 'smush' 
+[2021-02-26 01:43:55 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:43:55 : INFO] - 95 
+[2021-02-26 01:44:00 : INFO] - Backing up the original image - 2021/02/kangaom-updraft-pre-smush-original.jpg 
+[2021-02-26 01:44:00 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:00 : INFO] - 95 
+[2021-02-26 01:44:01 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:01 : INFO] - 95 
+[2021-02-26 01:44:04 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:04 : INFO] - 95 
+[2021-02-26 01:44:05 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:05 : INFO] - 95 
+[2021-02-26 01:44:08 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:08 : INFO] - 95 
+[2021-02-26 01:44:10 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:10 : INFO] - 95 
+[2021-02-26 01:44:11 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:11 : INFO] - 95 
+[2021-02-26 01:44:14 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:14 : INFO] - 95 
+[2021-02-26 01:44:15 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/kangaom.jpg.The file was compressed from 264.61 KB to 251.27 KB saving 5.04 percent using WP-Optimize 
+[2021-02-26 01:44:15 : INFO] - Completed processing task with ID : 245, and type 'smush' 
+[2021-02-26 01:44:15 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:44:15 
+[2021-02-26 01:44:15 : INFO] - Processing task with ID : 246, and type 'smush' 
+[2021-02-26 01:44:15 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:15 : INFO] - 95 
+[2021-02-26 01:44:18 : INFO] - Backing up the original image - 2021/02/cropped-อ่อมหมู-croped-updraft-pre-smush-original.jpg 
+[2021-02-26 01:44:18 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:18 : INFO] - 95 
+[2021-02-26 01:44:19 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:19 : INFO] - 95 
+[2021-02-26 01:44:22 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:22 : INFO] - 95 
+[2021-02-26 01:44:22 : INFO] - 
+ 
+[2021-02-26 01:44:22 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:44:22 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:44:22 : INFO] - WP: 5.6.2 
+[2021-02-26 01:44:22 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:44:22 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:44:22 : INFO] - WPLANG: th 
+[2021-02-26 01:44:22 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:44:22 : INFO] - Outbound connections: N 
+[2021-02-26 01:44:22 : INFO] - safe_mode: 0 
+[2021-02-26 01:44:22 : INFO] - max_execution_time: 120 
+[2021-02-26 01:44:22 : INFO] - memory_limit: 512M (used: 85.3M | 8M) 
+[2021-02-26 01:44:22 : INFO] - multisite: N 
+[2021-02-26 01:44:22 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:44:22 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:44:22 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:44:22 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:44:23 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:23 : INFO] - 95 
+[2021-02-26 01:44:25 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:25 : INFO] - 95 
+[2021-02-26 01:44:27 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:27 : INFO] - 95 
+[2021-02-26 01:44:29 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:29 : INFO] - 95 
+[2021-02-26 01:44:31 : INFO] - Re_Smush_It_Task - Attachment ID : 248, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:31 : INFO] - 95 
+[2021-02-26 01:44:32 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/cropped-อ่อมหมู-croped.jpg.The file was compressed from 71.65 KB to 69.89 KB saving 2.45 percent using WP-Optimize 
+[2021-02-26 01:44:32 : INFO] - Completed processing task with ID : 246, and type 'smush' 
+[2021-02-26 01:44:32 : INFO] - Processing task with ID : 247, and type 'smush' 
+[2021-02-26 01:44:32 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:32 : INFO] - 95 
+[2021-02-26 01:44:36 : INFO] - Backing up the original image - 2021/02/อ่อมหมู-croped-updraft-pre-smush-original.jpg 
+[2021-02-26 01:44:36 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:36 : INFO] - 95 
+[2021-02-26 01:44:37 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:37 : INFO] - 95 
+[2021-02-26 01:44:39 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:39 : INFO] - 95 
+[2021-02-26 01:44:46 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:47 : INFO] - 95 
+[2021-02-26 01:44:49 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:49 : INFO] - 95 
+[2021-02-26 01:44:52 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 26, 2021 12:58:04 
+[2021-02-26 01:44:52 : INFO] - 95 
+[2021-02-26 01:45:23 : INFO] - 
+ 
+[2021-02-26 01:45:23 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:45:23 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:45:23 : INFO] - WP: 5.6.2 
+[2021-02-26 01:45:23 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:45:23 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:45:23 : INFO] - WPLANG: th 
+[2021-02-26 01:45:23 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:45:23 : INFO] - Outbound connections: N 
+[2021-02-26 01:45:23 : INFO] - safe_mode: 0 
+[2021-02-26 01:45:23 : INFO] - max_execution_time: 120 
+[2021-02-26 01:45:23 : INFO] - memory_limit: 512M (used: 85.3M | 8M) 
+[2021-02-26 01:45:23 : INFO] - multisite: N 
+[2021-02-26 01:45:23 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:45:23 : INFO] - A total of 13 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:45:23 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:45:23 
+[2021-02-26 01:45:23 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:45:23 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:45:23 
+[2021-02-26 01:45:23 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:45:26 : INFO] - Task with ID 247 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2021-02-26 01:45:26 : INFO] - Processing task with ID : 248, and type 'smush' 
+[2021-02-26 01:45:26 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:26 : INFO] - 95 
+[2021-02-26 01:45:33 : INFO] - Backing up the original image - 2021/02/cropped-cropped-1612701750027-updraft-pre-smush-original.png 
+[2021-02-26 01:45:33 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:33 : INFO] - 95 
+[2021-02-26 01:45:35 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:35 : INFO] - 95 
+[2021-02-26 01:45:39 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:39 : INFO] - 95 
+[2021-02-26 01:45:41 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:41 : INFO] - 95 
+[2021-02-26 01:45:44 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:44 : INFO] - 95 
+[2021-02-26 01:45:47 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:47 : INFO] - 95 
+[2021-02-26 01:45:49 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:49 : INFO] - 95 
+[2021-02-26 01:45:52 : INFO] - Re_Smush_It_Task - Attachment ID : 241, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:52 : INFO] - 95 
+[2021-02-26 01:45:54 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/cropped-cropped-1612701750027.png.The file was compressed from 756.12 KB to 242.85 KB saving 67.88 percent using WP-Optimize 
+[2021-02-26 01:45:54 : INFO] - Completed processing task with ID : 248, and type 'smush' 
+[2021-02-26 01:45:54 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:45:54 
+[2021-02-26 01:45:54 : INFO] - Processing task with ID : 249, and type 'smush' 
+[2021-02-26 01:45:54 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:45:54 : INFO] - 95 
+[2021-02-26 01:46:00 : INFO] - Backing up the original image - 2021/02/cropped-1612701750027-updraft-pre-smush-original.png 
+[2021-02-26 01:46:00 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:00 : INFO] - 95 
+[2021-02-26 01:46:02 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:02 : INFO] - 95 
+[2021-02-26 01:46:06 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:06 : INFO] - 95 
+[2021-02-26 01:46:08 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:08 : INFO] - 95 
+[2021-02-26 01:46:11 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:11 : INFO] - 95 
+[2021-02-26 01:46:14 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:14 : INFO] - 95 
+[2021-02-26 01:46:16 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:16 : INFO] - 95 
+[2021-02-26 01:46:19 : INFO] - Re_Smush_It_Task - Attachment ID : 239, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:19 : INFO] - 95 
+[2021-02-26 01:46:20 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/cropped-1612701750027.png.The file was compressed from 756.40 KB to 247.41 KB saving 67.29 percent using WP-Optimize 
+[2021-02-26 01:46:20 : INFO] - Completed processing task with ID : 249, and type 'smush' 
+[2021-02-26 01:46:20 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:46:20 
+[2021-02-26 01:46:20 : INFO] - Processing task with ID : 250, and type 'smush' 
+[2021-02-26 01:46:20 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:20 : INFO] - 95 
+[2021-02-26 01:46:24 : INFO] - 
+ 
+[2021-02-26 01:46:24 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:46:24 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:46:24 : INFO] - WP: 5.6.2 
+[2021-02-26 01:46:24 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:46:24 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:46:24 : INFO] - WPLANG: th 
+[2021-02-26 01:46:24 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:46:24 : INFO] - Outbound connections: N 
+[2021-02-26 01:46:24 : INFO] - safe_mode: 0 
+[2021-02-26 01:46:24 : INFO] - max_execution_time: 120 
+[2021-02-26 01:46:24 : INFO] - memory_limit: 512M (used: 85.3M | 14M) 
+[2021-02-26 01:46:24 : INFO] - multisite: N 
+[2021-02-26 01:46:24 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:46:24 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:46:24 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:46:24 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:46:34 : INFO] - Backing up the original image - 2021/02/1612701750027-updraft-pre-smush-original.png 
+[2021-02-26 01:46:34 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:34 : INFO] - 95 
+[2021-02-26 01:46:36 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:36 : INFO] - 95 
+[2021-02-26 01:46:39 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:40 : INFO] - 95 
+[2021-02-26 01:46:41 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:41 : INFO] - 95 
+[2021-02-26 01:46:47 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:47 : INFO] - 95 
+[2021-02-26 01:46:49 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:49 : INFO] - 95 
+[2021-02-26 01:46:51 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:46:51 : INFO] - 95 
+[2021-02-26 01:47:23 : INFO] - 
+ 
+[2021-02-26 01:47:23 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:47:23 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:47:23 : INFO] - WP: 5.6.2 
+[2021-02-26 01:47:23 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:47:23 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:47:23 : INFO] - WPLANG: th 
+[2021-02-26 01:47:23 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:47:23 : INFO] - Outbound connections: N 
+[2021-02-26 01:47:23 : INFO] - safe_mode: 0 
+[2021-02-26 01:47:23 : INFO] - max_execution_time: 120 
+[2021-02-26 01:47:23 : INFO] - memory_limit: 512M (used: 85.3M | 50M) 
+[2021-02-26 01:47:23 : INFO] - multisite: N 
+[2021-02-26 01:47:23 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:47:23 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:47:23 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:47:23 
+[2021-02-26 01:47:23 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:47:23 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:47:23 
+[2021-02-26 01:47:23 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:47:23 : INFO] - Processing task with ID : 250, and type 'smush' 
+[2021-02-26 01:47:23 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:24 : INFO] - 95 
+[2021-02-26 01:47:29 : INFO] - Backing up the original image - 2021/02/1612701750027-updraft-pre-smush-original.png 
+[2021-02-26 01:47:29 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:29 : INFO] - 95 
+[2021-02-26 01:47:31 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:31 : INFO] - 95 
+[2021-02-26 01:47:33 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:34 : INFO] - 95 
+[2021-02-26 01:47:35 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:35 : INFO] - 95 
+[2021-02-26 01:47:38 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:39 : INFO] - 95 
+[2021-02-26 01:47:40 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:40 : INFO] - 95 
+[2021-02-26 01:47:42 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:42 : INFO] - 95 
+[2021-02-26 01:47:45 : INFO] - Re_Smush_It_Task - Attachment ID : 238, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:45 : INFO] - 95 
+[2021-02-26 01:47:47 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/1612701750027.png.The file was compressed from 248.33 KB to 248.22 KB saving 0.05 percent using WP-Optimize 
+[2021-02-26 01:47:47 : INFO] - Completed processing task with ID : 250, and type 'smush' 
+[2021-02-26 01:47:47 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:47:47 
+[2021-02-26 01:47:47 : INFO] - Processing task with ID : 251, and type 'smush' 
+[2021-02-26 01:47:47 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:47 : INFO] - 95 
+[2021-02-26 01:47:50 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2021-02-26 01:47:50 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:50 : INFO] - 95 
+[2021-02-26 01:47:51 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:51 : INFO] - 95 
+[2021-02-26 01:47:52 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:52 : INFO] - 95 
+[2021-02-26 01:47:54 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:54 : INFO] - 95 
+[2021-02-26 01:47:57 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:57 : INFO] - 95 
+[2021-02-26 01:47:58 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:47:58 : INFO] - 95 
+[2021-02-26 01:48:00 : INFO] - Re_Smush_It_Task - Attachment ID : 227, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:00 : INFO] - 95 
+[2021-02-26 01:48:03 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB saving 27.12 percent using WP-Optimize 
+[2021-02-26 01:48:03 : INFO] - Completed processing task with ID : 251, and type 'smush' 
+[2021-02-26 01:48:03 : INFO] - Processing task with ID : 252, and type 'smush' 
+[2021-02-26 01:48:03 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:03 : INFO] - 95 
+[2021-02-26 01:48:11 : INFO] - Backing up the original image - 2021/02/IMG20210110124817-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:48:11 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:11 : INFO] - 95 
+[2021-02-26 01:48:13 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:13 : INFO] - 95 
+[2021-02-26 01:48:14 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:14 : INFO] - 95 
+[2021-02-26 01:48:16 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:16 : INFO] - 95 
+[2021-02-26 01:48:18 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:18 : INFO] - 95 
+[2021-02-26 01:48:22 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:22 : INFO] - 95 
+[2021-02-26 01:48:23 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:23 : INFO] - 95 
+[2021-02-26 01:48:25 : INFO] - 
+ 
+[2021-02-26 01:48:25 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:48:25 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:48:25 : INFO] - WP: 5.6.2 
+[2021-02-26 01:48:25 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:48:25 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:48:25 : INFO] - WPLANG: th 
+[2021-02-26 01:48:25 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:48:25 : INFO] - Outbound connections: N 
+[2021-02-26 01:48:25 : INFO] - safe_mode: 0 
+[2021-02-26 01:48:25 : INFO] - max_execution_time: 120 
+[2021-02-26 01:48:25 : INFO] - memory_limit: 512M (used: 85.3M | 10M) 
+[2021-02-26 01:48:25 : INFO] - multisite: N 
+[2021-02-26 01:48:25 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:48:25 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:48:25 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:48:25 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:48:26 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:26 : INFO] - 95 
+[2021-02-26 01:48:31 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:31 : INFO] - 95 
+[2021-02-26 01:48:40 : INFO] - Re_Smush_It_Task - Attachment ID : 221, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:40 : INFO] - 95 
+[2021-02-26 01:48:42 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/IMG20210110124817-scaled.jpg.The file was compressed from 742.16 KB to 716.35 KB saving 3.48 percent using WP-Optimize 
+[2021-02-26 01:48:42 : INFO] - Completed processing task with ID : 252, and type 'smush' 
+[2021-02-26 01:48:42 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:48:42 
+[2021-02-26 01:48:42 : INFO] - Processing task with ID : 253, and type 'smush' 
+[2021-02-26 01:48:42 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:42 : INFO] - 95 
+[2021-02-26 01:48:50 : INFO] - Backing up the original image - 2021/02/44990-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:48:50 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:50 : INFO] - 95 
+[2021-02-26 01:48:52 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:52 : INFO] - 95 
+[2021-02-26 01:48:53 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:48:53 : INFO] - 95 
+[2021-02-26 01:49:28 : INFO] - 
+ 
+[2021-02-26 01:49:28 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:49:28 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:49:28 : INFO] - WP: 5.6.2 
+[2021-02-26 01:49:28 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:49:28 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:49:28 : INFO] - WPLANG: th 
+[2021-02-26 01:49:28 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:49:28 : INFO] - Outbound connections: N 
+[2021-02-26 01:49:28 : INFO] - safe_mode: 0 
+[2021-02-26 01:49:28 : INFO] - max_execution_time: 120 
+[2021-02-26 01:49:28 : INFO] - memory_limit: 512M (used: 85.3M | 26M) 
+[2021-02-26 01:49:28 : INFO] - multisite: N 
+[2021-02-26 01:49:28 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:49:28 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:49:28 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:49:28 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:50:29 : INFO] - 
+ 
+[2021-02-26 01:50:29 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:50:29 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:50:29 : INFO] - WP: 5.6.2 
+[2021-02-26 01:50:29 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:50:29 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:50:29 : INFO] - WPLANG: th 
+[2021-02-26 01:50:29 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:50:29 : INFO] - Outbound connections: N 
+[2021-02-26 01:50:29 : INFO] - safe_mode: 0 
+[2021-02-26 01:50:29 : INFO] - max_execution_time: 120 
+[2021-02-26 01:50:29 : INFO] - memory_limit: 512M (used: 85.3M | 16M) 
+[2021-02-26 01:50:29 : INFO] - multisite: N 
+[2021-02-26 01:50:29 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:50:29 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:50:29 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:50:29 
+[2021-02-26 01:50:29 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:50:29 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:50:29 
+[2021-02-26 01:50:29 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:50:29 : INFO] - Processing task with ID : 253, and type 'smush' 
+[2021-02-26 01:50:29 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:29 : INFO] - 95 
+[2021-02-26 01:50:38 : INFO] - Backing up the original image - 2021/02/44990-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:50:38 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:38 : INFO] - 95 
+[2021-02-26 01:50:40 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:40 : INFO] - 95 
+[2021-02-26 01:50:41 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:41 : INFO] - 95 
+[2021-02-26 01:50:43 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:43 : INFO] - 95 
+[2021-02-26 01:50:45 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:45 : INFO] - 95 
+[2021-02-26 01:50:48 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:48 : INFO] - 95 
+[2021-02-26 01:50:50 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:50 : INFO] - 95 
+[2021-02-26 01:50:52 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:52 : INFO] - 95 
+[2021-02-26 01:50:57 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:50:57 : INFO] - 95 
+[2021-02-26 01:51:03 : INFO] - Re_Smush_It_Task - Attachment ID : 218, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:03 : INFO] - 95 
+[2021-02-26 01:51:06 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/44990-scaled.jpg.The file was compressed from 722.29 KB to 722.29 KB saving 0 percent using WP-Optimize 
+[2021-02-26 01:51:06 : INFO] - Completed processing task with ID : 253, and type 'smush' 
+[2021-02-26 01:51:06 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:51:06 
+[2021-02-26 01:51:06 : INFO] - Processing task with ID : 254, and type 'smush' 
+[2021-02-26 01:51:06 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:06 : INFO] - 95 
+[2021-02-26 01:51:16 : INFO] - Backing up the original image - 2021/02/44985-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:51:16 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:16 : INFO] - 95 
+[2021-02-26 01:51:18 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:18 : INFO] - 95 
+[2021-02-26 01:51:19 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:19 : INFO] - 95 
+[2021-02-26 01:51:22 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:22 : INFO] - 95 
+[2021-02-26 01:51:23 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:23 : INFO] - 95 
+[2021-02-26 01:51:26 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:26 : INFO] - 95 
+[2021-02-26 01:51:28 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:28 : INFO] - 95 
+[2021-02-26 01:51:31 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:31 : INFO] - 95 
+[2021-02-26 01:51:31 : INFO] - 
+ 
+[2021-02-26 01:51:31 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:51:31 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:51:31 : INFO] - WP: 5.6.2 
+[2021-02-26 01:51:31 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:51:31 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:51:31 : INFO] - WPLANG: th 
+[2021-02-26 01:51:31 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:51:31 : INFO] - Outbound connections: N 
+[2021-02-26 01:51:31 : INFO] - safe_mode: 0 
+[2021-02-26 01:51:31 : INFO] - max_execution_time: 120 
+[2021-02-26 01:51:31 : INFO] - memory_limit: 512M (used: 85.3M | 18M) 
+[2021-02-26 01:51:31 : INFO] - multisite: N 
+[2021-02-26 01:51:31 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:51:31 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:51:31 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:51:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:51:36 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:36 : INFO] - 95 
+[2021-02-26 01:51:42 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:42 : INFO] - 95 
+[2021-02-26 01:51:44 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/44985-scaled.jpg.The file was compressed from 659.30 KB to 632.13 KB saving 4.12 percent using WP-Optimize 
+[2021-02-26 01:51:44 : INFO] - Completed processing task with ID : 254, and type 'smush' 
+[2021-02-26 01:51:44 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:51:44 
+[2021-02-26 01:51:44 : INFO] - Processing task with ID : 255, and type 'smush' 
+[2021-02-26 01:51:44 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:51:44 : INFO] - 95 
+[2021-02-26 01:52:31 : INFO] - 
+ 
+[2021-02-26 01:52:31 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:52:31 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:52:31 : INFO] - WP: 5.6.2 
+[2021-02-26 01:52:31 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:52:31 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:52:31 : INFO] - WPLANG: th 
+[2021-02-26 01:52:31 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:52:31 : INFO] - Outbound connections: N 
+[2021-02-26 01:52:31 : INFO] - safe_mode: 0 
+[2021-02-26 01:52:31 : INFO] - max_execution_time: 120 
+[2021-02-26 01:52:31 : INFO] - memory_limit: 512M (used: 85.3M | 10M) 
+[2021-02-26 01:52:31 : INFO] - multisite: N 
+[2021-02-26 01:52:31 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:52:31 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:52:31 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:52:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:53:32 : INFO] - 
+ 
+[2021-02-26 01:53:32 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:53:32 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:53:32 : INFO] - WP: 5.6.2 
+[2021-02-26 01:53:32 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:53:32 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:53:32 : INFO] - WPLANG: th 
+[2021-02-26 01:53:32 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:53:32 : INFO] - Outbound connections: N 
+[2021-02-26 01:53:32 : INFO] - safe_mode: 0 
+[2021-02-26 01:53:32 : INFO] - max_execution_time: 120 
+[2021-02-26 01:53:32 : INFO] - memory_limit: 512M (used: 85.3M | 46M) 
+[2021-02-26 01:53:32 : INFO] - multisite: N 
+[2021-02-26 01:53:32 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:53:32 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:53:32 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:53:32 
+[2021-02-26 01:53:32 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:53:32 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:53:32 
+[2021-02-26 01:53:32 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:53:32 : INFO] - Processing task with ID : 255, and type 'smush' 
+[2021-02-26 01:53:32 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:53:32 : INFO] - 95 
+[2021-02-26 01:53:52 : INFO] - Backing up the original image - 2021/02/Screenshot-294-updraft-pre-smush-original.png 
+[2021-02-26 01:53:52 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:53:52 : INFO] - 95 
+[2021-02-26 01:53:55 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:53:55 : INFO] - 95 
+[2021-02-26 01:53:57 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:53:57 : INFO] - 95 
+[2021-02-26 01:54:01 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:01 : INFO] - 95 
+[2021-02-26 01:54:03 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:03 : INFO] - 95 
+[2021-02-26 01:54:08 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:08 : INFO] - 95 
+[2021-02-26 01:54:11 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:11 : INFO] - 95 
+[2021-02-26 01:54:19 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:19 : INFO] - 95 
+[2021-02-26 01:54:27 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:27 : INFO] - 95 
+[2021-02-26 01:54:31 : INFO] - 
+ 
+[2021-02-26 01:54:31 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:54:31 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:54:31 : INFO] - WP: 5.6.2 
+[2021-02-26 01:54:31 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:54:31 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:54:31 : INFO] - WPLANG: th 
+[2021-02-26 01:54:31 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:54:31 : INFO] - Outbound connections: N 
+[2021-02-26 01:54:31 : INFO] - safe_mode: 0 
+[2021-02-26 01:54:31 : INFO] - max_execution_time: 120 
+[2021-02-26 01:54:31 : INFO] - memory_limit: 512M (used: 85.3M | 8M) 
+[2021-02-26 01:54:31 : INFO] - multisite: N 
+[2021-02-26 01:54:31 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:54:31 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:54:31 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:54:31 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:54:32 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/Screenshot-294.png.The file was compressed from 2.90 MB to 1,002.02 KB saving 66.3 percent using WP-Optimize 
+[2021-02-26 01:54:32 : INFO] - Completed processing task with ID : 255, and type 'smush' 
+[2021-02-26 01:54:32 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:54:32 
+[2021-02-26 01:54:32 : INFO] - Processing task with ID : 256, and type 'smush' 
+[2021-02-26 01:54:32 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:32 : INFO] - 95 
+[2021-02-26 01:54:37 : INFO] - Backing up the original image - 2021/02/IMG20210110125106-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:54:37 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:37 : INFO] - 95 
+[2021-02-26 01:54:39 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:39 : INFO] - 95 
+[2021-02-26 01:54:40 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:40 : INFO] - 95 
+[2021-02-26 01:54:43 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:43 : INFO] - 95 
+[2021-02-26 01:54:44 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:44 : INFO] - 95 
+[2021-02-26 01:54:47 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:47 : INFO] - 95 
+[2021-02-26 01:54:48 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:48 : INFO] - 95 
+[2021-02-26 01:54:51 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:51 : INFO] - 95 
+[2021-02-26 01:54:55 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:54:55 : INFO] - 95 
+[2021-02-26 01:55:00 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:00 : INFO] - 95 
+[2021-02-26 01:55:32 : INFO] - 
+ 
+[2021-02-26 01:55:32 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:55:32 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:55:32 : INFO] - WP: 5.6.2 
+[2021-02-26 01:55:32 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:55:32 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:55:32 : INFO] - WPLANG: th 
+[2021-02-26 01:55:32 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:55:32 : INFO] - Outbound connections: N 
+[2021-02-26 01:55:32 : INFO] - safe_mode: 0 
+[2021-02-26 01:55:32 : INFO] - max_execution_time: 120 
+[2021-02-26 01:55:32 : INFO] - memory_limit: 512M (used: 82.9M | 8M) 
+[2021-02-26 01:55:32 : INFO] - multisite: N 
+[2021-02-26 01:55:32 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:55:32 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:55:32 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:55:32 
+[2021-02-26 01:55:32 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:55:32 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:55:32 
+[2021-02-26 01:55:32 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:55:32 : INFO] - Processing task with ID : 256, and type 'smush' 
+[2021-02-26 01:55:32 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:32 : INFO] - 95 
+[2021-02-26 01:55:38 : INFO] - Backing up the original image - 2021/02/IMG20210110125106-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:55:38 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:38 : INFO] - 95 
+[2021-02-26 01:55:40 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:40 : INFO] - 95 
+[2021-02-26 01:55:41 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:41 : INFO] - 95 
+[2021-02-26 01:55:43 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:43 : INFO] - 95 
+[2021-02-26 01:55:45 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:45 : INFO] - 95 
+[2021-02-26 01:55:48 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:48 : INFO] - 95 
+[2021-02-26 01:55:49 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:49 : INFO] - 95 
+[2021-02-26 01:55:52 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:52 : INFO] - 95 
+[2021-02-26 01:55:55 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:55:55 : INFO] - 95 
+[2021-02-26 01:56:01 : INFO] - Re_Smush_It_Task - Attachment ID : 211, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:01 : INFO] - 95 
+[2021-02-26 01:56:03 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/IMG20210110125106-scaled.jpg.The file was compressed from 453.57 KB to 453.57 KB saving 0 percent using WP-Optimize 
+[2021-02-26 01:56:03 : INFO] - Completed processing task with ID : 256, and type 'smush' 
+[2021-02-26 01:56:03 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:56:03 
+[2021-02-26 01:56:03 : INFO] - Processing task with ID : 257, and type 'smush' 
+[2021-02-26 01:56:03 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:03 : INFO] - 95 
+[2021-02-26 01:56:14 : INFO] - Backing up the original image - 2021/02/BeFunky-collage-updraft-pre-smush-original.jpg 
+[2021-02-26 01:56:14 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:14 : INFO] - 95 
+[2021-02-26 01:56:16 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:16 : INFO] - 95 
+[2021-02-26 01:56:17 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:17 : INFO] - 95 
+[2021-02-26 01:56:19 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:19 : INFO] - 95 
+[2021-02-26 01:56:21 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:21 : INFO] - 95 
+[2021-02-26 01:56:24 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:24 : INFO] - 95 
+[2021-02-26 01:56:26 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:26 : INFO] - 95 
+[2021-02-26 01:56:28 : INFO] - Re_Smush_It_Task - Attachment ID : 156, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:28 : INFO] - 95 
+[2021-02-26 01:56:31 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/BeFunky-collage.jpg.The file was compressed from 1.01 MB to 332.35 KB saving 67.93 percent using WP-Optimize 
+[2021-02-26 01:56:31 : INFO] - Completed processing task with ID : 257, and type 'smush' 
+[2021-02-26 01:56:31 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:56:31 
+[2021-02-26 01:56:31 : INFO] - Processing task with ID : 258, and type 'smush' 
+[2021-02-26 01:56:31 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:31 : INFO] - 95 
+[2021-02-26 01:56:33 : INFO] - 
+ 
+[2021-02-26 01:56:33 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:56:33 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:56:33 : INFO] - WP: 5.6.2 
+[2021-02-26 01:56:33 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:56:33 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:56:33 : INFO] - WPLANG: th 
+[2021-02-26 01:56:33 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:56:33 : INFO] - Outbound connections: N 
+[2021-02-26 01:56:33 : INFO] - safe_mode: 0 
+[2021-02-26 01:56:33 : INFO] - max_execution_time: 120 
+[2021-02-26 01:56:33 : INFO] - memory_limit: 512M (used: 82.9M | 14M) 
+[2021-02-26 01:56:33 : INFO] - multisite: N 
+[2021-02-26 01:56:33 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:56:33 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:56:33 : INFO] - Semaphore lock (smush, wp_options) failed (line 131) 
+[2021-02-26 01:56:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2021-02-26 01:56:34 : INFO] - Backing up the original image - 2021/02/cropped-IMG20210110125319-scaled-1-updraft-pre-smush-original.jpg 
+[2021-02-26 01:56:34 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:34 : INFO] - 95 
+[2021-02-26 01:56:36 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:36 : INFO] - 95 
+[2021-02-26 01:56:37 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:37 : INFO] - 95 
+[2021-02-26 01:56:39 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:39 : INFO] - 95 
+[2021-02-26 01:56:41 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:41 : INFO] - 95 
+[2021-02-26 01:56:44 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:44 : INFO] - 95 
+[2021-02-26 01:56:45 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:45 : INFO] - 95 
+[2021-02-26 01:56:48 : INFO] - Re_Smush_It_Task - Attachment ID : 145, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:48 : INFO] - 95 
+[2021-02-26 01:56:50 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/cropped-IMG20210110125319-scaled-1.jpg.The file was compressed from 147.27 KB to 139.13 KB saving 5.53 percent using WP-Optimize 
+[2021-02-26 01:56:50 : INFO] - Completed processing task with ID : 258, and type 'smush' 
+[2021-02-26 01:56:50 : INFO] - Processing task with ID : 259, and type 'smush' 
+[2021-02-26 01:56:50 : INFO] - Re_Smush_It_Task - Attachment ID : 99, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:56:50 : INFO] - 95 
+[2021-02-26 01:57:01 : INFO] - Backing up the original image - 2021/02/IMG20210110125319-scaled-updraft-pre-smush-original.jpg 
+[2021-02-26 01:57:02 : INFO] - Re_Smush_It_Task - Attachment ID : 99, Started on : February 26, 2021 12:58:05 
+[2021-02-26 01:57:02 : INFO] - 95 
+[2021-02-26 01:57:34 : INFO] - 
+ 
+[2021-02-26 01:57:34 : INFO] - Header for logs at time:  Fri, 26 Feb 2021 01:57:34 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-26 01:57:34 : INFO] - WP: 5.6.2 
+[2021-02-26 01:57:34 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-26 01:57:34 : INFO] - MySQL: 5.5.5 
+[2021-02-26 01:57:34 : INFO] - WPLANG: th 
+[2021-02-26 01:57:34 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-26 01:57:34 : INFO] - Outbound connections: N 
+[2021-02-26 01:57:34 : INFO] - safe_mode: 0 
+[2021-02-26 01:57:34 : INFO] - max_execution_time: 120 
+[2021-02-26 01:57:34 : INFO] - memory_limit: 512M (used: 82.6M | 8M) 
+[2021-02-26 01:57:34 : INFO] - multisite: N 
+[2021-02-26 01:57:34 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-26 01:57:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-02-26 01:57:34 : INFO] - Semaphore (smush, wp_options) was stuck, set lock time to 2021-02-26 01:57:34 
+[2021-02-26 01:57:34 : INFO] - Semaphore (smush, wp_options) reset to 1 
+[2021-02-26 01:57:34 : INFO] - Set semaphore last lock (smush) time to 2021-02-26 01:57:34 
+[2021-02-26 01:57:34 : INFO] - Semaphore lock (smush) complete 
+[2021-02-26 01:57:37 : INFO] - Task with ID 259 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2021-02-26 01:57:37 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-26 01:57:37 : INFO] - Semaphore (smush) unlocked 
+[2021-02-26 01:57:37 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-02-26 01:57:37 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-26 01:57:37 : INFO] - Cleaning up tasks of type (smush). A total of 53 tasks will be deleted. 
+[2021-02-27 12:36:35 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:36 : INFO] - 
+ 
+[2021-02-27 12:41:36 : INFO] - Header for logs at time:  Sat, 27 Feb 2021 12:41:36 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-27 12:41:36 : INFO] - WP: 5.6.2 
+[2021-02-27 12:41:36 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-27 12:41:36 : INFO] - MySQL: 5.5.5 
+[2021-02-27 12:41:36 : INFO] - WPLANG: th 
+[2021-02-27 12:41:36 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-27 12:41:36 : INFO] - Outbound connections: N 
+[2021-02-27 12:41:36 : INFO] - safe_mode: 0 
+[2021-02-27 12:41:36 : INFO] - max_execution_time: 120 
+[2021-02-27 12:41:36 : INFO] - memory_limit: 512M (used: 43.6M | 26M) 
+[2021-02-27 12:41:36 : INFO] - multisite: N 
+[2021-02-27 12:41:36 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-27 12:41:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-02-27 12:41:36 : INFO] - Set semaphore last lock (smush) time to 2021-02-27 12:41:36 
+[2021-02-27 12:41:36 : INFO] - Semaphore lock (smush) complete 
+[2021-02-27 12:41:36 : INFO] - Processing task with ID : 265, and type 'smush' 
+[2021-02-27 12:41:36 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:36 : INFO] - 95 
+[2021-02-27 12:41:40 : INFO] - Backing up the original image - 2021/02/เครื่องเสียง-updraft-pre-smush-original.jpg 
+[2021-02-27 12:41:40 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:40 : INFO] - 95 
+[2021-02-27 12:41:41 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:41 : INFO] - 95 
+[2021-02-27 12:41:44 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:44 : INFO] - 95 
+[2021-02-27 12:41:45 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:45 : INFO] - 95 
+[2021-02-27 12:41:48 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:48 : INFO] - 95 
+[2021-02-27 12:41:52 : INFO] - Re_Smush_It_Task with attachment ID : 1400, autocreated on : February 27, 2021 12:36:34 
+[2021-02-27 12:41:52 : INFO] - 95 
+[2021-02-27 12:41:54 : INFO] - Successfully optimized the image - E:\phpwebsite\cms63_g3\wordpress/wp-content/uploads/2021/02/เครื่องเสียง.jpg.The file was compressed from 176.08 KB to 176.08 KB saving 0 percent using WP-Optimize 
+[2021-02-27 12:41:54 : INFO] - Completed processing task with ID : 265, and type 'smush' 
+[2021-02-27 12:41:54 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-02-27 12:41:54 : INFO] - Semaphore (smush) unlocked 
+[2021-02-27 12:41:54 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-02-27 12:41:54 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-02-27 12:41:54 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-02-27 13:15:43 : INFO] - 
+ 
+[2021-02-27 13:15:43 : INFO] - Header for logs at time:  Sat, 27 Feb 2021 13:15:43 +0000 on http://it2.sut.ac.th/cms63_g3/wordpress 
+[2021-02-27 13:15:43 : INFO] - WP: 5.6.2 
+[2021-02-27 13:15:43 : INFO] - PHP: 7.4.14 (apache2handler, Windows NT IT-SERVER2 6.1 build 7601 (Windows Server 2008 R2 Enterprise Edition Service Pack 1) AMD64) 
+[2021-02-27 13:15:43 : INFO] - MySQL: 5.5.5 
+[2021-02-27 13:15:43 : INFO] - WPLANG: th 
+[2021-02-27 13:15:43 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.14 
+[2021-02-27 13:15:43 : INFO] - Outbound connections: N 
+[2021-02-27 13:15:43 : INFO] - safe_mode: 0 
+[2021-02-27 13:15:43 : INFO] - max_execution_time: 120 
+[2021-02-27 13:15:43 : INFO] - memory_limit: 512M (used: 43.6M | 46M) 
+[2021-02-27 13:15:43 : INFO] - multisite: N 
+[2021-02-27 13:15:43 : INFO] - openssl: OpenSSL 1.1.1i  8 Dec 2020 
+[2021-02-27 13:15:43 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-02-27 14:15:21 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : February 27, 2021 02:15:21 
+[2021-02-27 14:15:55 : INFO] - Re_Smush_It_Task with attachment ID : 1432, autocreated on : February 27, 2021 02:15:55 
